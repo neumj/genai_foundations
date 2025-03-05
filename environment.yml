@@ -10,3 +10,7 @@ dependencies:
   - loguru
   - pandas
   - numpy
+  - gradio
+  - seaborn
+  - matplotlib
+  - scikit-learn
