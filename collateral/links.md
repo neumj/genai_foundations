@@ -11,3 +11,4 @@
 
 ### Tools and Services
 - [Visuals from Text - napkin.ai](https://app.napkin.ai/)
+- [Models Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
