@@ -12,3 +12,13 @@
 ### Tools and Services
 - [Visuals from Text - napkin.ai](https://app.napkin.ai/)
 - [Models Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+
+### AI Security and Reliability
+- [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration#uncensor-any-llm-with-abliteration)
+- [Machine Learning Model Explainability](https://poloclub.github.io/webshap/)
+- [LLM Attacks](https://llm-attacks.org/index.html#examples)
+- [LLM Explainability](https://shap.readthedocs.io/en/latest/example_notebooks/text_examples/text_generation/Open%20Ended%20GPT2%20Text%20Generation%20Explanations.html)
+- [Extracting Training Data From Chatgpt](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
+- [LLM Bias](https://lm-bias.lingvis.io/)
+- [LLM Plugins](https://learn.snyk.io/lesson/llm-insecure-plugins/?ecosystem=aiml)
+- [Study of Fairness Concerns in AI-based Mobile App Reviews](https://arxiv.org/html/2401.08097v2)
