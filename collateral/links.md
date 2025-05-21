@@ -22,3 +22,9 @@
 - [LLM Bias](https://lm-bias.lingvis.io/)
 - [LLM Plugins](https://learn.snyk.io/lesson/llm-insecure-plugins/?ecosystem=aiml)
 - [Study of Fairness Concerns in AI-based Mobile App Reviews](https://arxiv.org/html/2401.08097v2)
+
+### Agentic AI
+- [What are LLM-Powered Autonomous Agents?](https://truera.com/ai-quality-education/generative-ai-agents/what-are-llm-powered-autonomous-agents/)
+- [How to ReAct To Simple AI Agents](https://arize.com/blog-course/react-agent-llm/)
+- [From Chatbots to Agents: Augmenting LLMs With Tools](https://blog.dataiku.com/from-chatbots-to-agents-augmenting-llms-with-tools)
+- [LLM Agents - Prompt Engineering Guide](https://www.promptingguide.ai/research/llm-agents)
