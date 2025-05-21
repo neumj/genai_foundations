@@ -9,10 +9,6 @@
 - [Introduction to Operator and Agents](https://www.youtube.com/watch?v=CSE77wAdDLg)
 - [GenAI: Understanding Multi-Agents](https://medium.com/@mnitin3/genai-understanding-multi-agents-d94bcc1f46f5)
 
-### Tools and Services
-- [Visuals from Text - napkin.ai](https://app.napkin.ai/)
-- [Models Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
-
 ### AI Security and Reliability
 - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration#uncensor-any-llm-with-abliteration)
 - [Machine Learning Model Explainability](https://poloclub.github.io/webshap/)
@@ -28,3 +24,7 @@
 - [How to ReAct To Simple AI Agents](https://arize.com/blog-course/react-agent-llm/)
 - [From Chatbots to Agents: Augmenting LLMs With Tools](https://blog.dataiku.com/from-chatbots-to-agents-augmenting-llms-with-tools)
 - [LLM Agents - Prompt Engineering Guide](https://www.promptingguide.ai/research/llm-agents)
+
+### Tools and Services
+- [AI Model Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [Visuals from Text - napkin.ai](https://app.napkin.ai/)
