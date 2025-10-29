@@ -3,14 +3,6 @@ channels:
   - anaconda
   - conda-forge
 dependencies:
-  - python>3.11
-  - click
-  - python-dotenv
+  - python=3.12 
   - jupyterlab
-  - loguru
-  - pandas
-  - numpy
-  - gradio
-  - seaborn
-  - matplotlib
-  - scikit-learn
+  - ipywidgets

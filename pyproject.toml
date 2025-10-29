@@ -1,0 +1,46 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "gaif"
+version = "0.1.0"
+description = "GAIF"
+authors = ["MJN <neumann.mj@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "gaif", from = "src" }]
+license = "Proprietary"
+homepage = "https://github.com/neumj/genai_foundations"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4.0"
+click = "^8.0"
+python-dotenv = "^1.0"
+loguru = "^0.6"
+pandas = "^2.1"
+numpy = "^2.1"
+openai = "^1.7"
+langchain = "^0.3"
+langchain-openai = "^0.3"
+langchain-chroma = "^0.2"
+gradio = "^5.0"
+langchain-community = ">=0.3.25,<0.4"
+chromadb = "^1.0"
+pypdf = "^5.6"
+tiktoken = "^0.9"
+lxml = ">=5.4.0"
+tqdm = ">=4.66"
+huggingface_hub = ">=0.29.3"
+lark = "1.2.2"
+rank_bm25 = "0.2.2"
+scipy = "1.15.2"
+scikit-learn = "1.6.1"
+transformers= "4.50.0"
+markdown-pdf = "1.7"
+sentence_transformers = "4.0.0"
+
+[tool.poetry.group.dev.dependencies]
+coverage = "^7.0"
+
+[tool.poetry.scripts]
+klowd = "gaif.gaif_cli:start"

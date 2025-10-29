@@ -174,3 +174,4 @@ cython_debug/
 *.cfg
 *.ini
 config.json
+.DS_Store
